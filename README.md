@@ -7,6 +7,9 @@ The major functionalities involved in this project are:
 2. Types of services offered by this site.
 3. Online/offline order details
 4. Different types of products available
+5.Details about various offers and discounts on products independs on different occussions.
+
+youtube link:https://youtu.be/tGdWFd6rTQ4
 
 # Team Members
 1. P.Shyamala Madhuri
